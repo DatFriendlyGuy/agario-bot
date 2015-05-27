@@ -790,7 +790,6 @@ if(d.keyCode == 72) { if(g.length > 0 && confirm("Sure to bug?")) g[0].ox = Numb
     }
 
 	window.skinNames=[
-		'nomday.com/bot',
 		'Yaranaika',
 		'Pokerface',
 		'Sir',
@@ -809,6 +808,8 @@ if(d.keyCode == 72) { if(g.length > 0 && confirm("Sure to bug?")) g[0].ox = Numb
 		'4chan',
 		'Ayy Lmao',
 		'Qing Dynasty',
+		'Gamerlio',
+		'DatFriendlyGuy'
 	]
 
 	var bot=window.bot=new Bot(
